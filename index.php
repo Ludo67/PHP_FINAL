@@ -139,10 +139,15 @@ if(isset($_GET["action"]))
 					?>
 						
 				</table>
+                <input type="submit" name="confirm" style="margin-top:5px;" class="btn btn-success" value="Confirm Purchase"
+                       onClick="document.location.href='confirmation.php'" />
 			</div>
+
 		</div>
 	</div>
 	<br />
+
+
 	</body>
 </html>
 

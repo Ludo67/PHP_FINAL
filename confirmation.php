@@ -1,0 +1,2 @@
+<?php
+echo "THANKA YOU FORA BUYING";
