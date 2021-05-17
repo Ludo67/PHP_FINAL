@@ -1,0 +1,59 @@
+body{
+	background-color: red;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#outside {
+	border: 2px;
+	border-style: solid;
+	border-width: 5px;
+
+	padding: 5%;
+	background-color: white;
+
+	font-size: 20px;
+	width: 60%;
+	height: 5%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  align-items:right;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button_purchase {
+  background-color: #32CD32;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  align-items:right;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+table{
+	border: 1px solid black;
+	width: 100%;
+	text-align: center;
+}
+
+tr{
+	border: 1px solid black;
+}
